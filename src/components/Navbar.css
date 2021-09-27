@@ -1,0 +1,25 @@
+li {
+    list-style: none;
+}
+
+.navbar {
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+}
+.navigation {
+    margin-top: 30px;
+}
+li {
+    margin-top: 30px;
+}
+.to1p > p {
+    border-left: 4px solid #673ab7;
+    margin-left: 2px;
+    padding-top: 8px;
+    background: #e1d8f1;
+    height: 35px;
+    justify-content: center;
+    align-items: center;
+    display: "flex";
+}
